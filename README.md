@@ -32,10 +32,10 @@ Notes:
 
 ## 3. After registration
 
-- [ ] Ukrainian tax number for each foreign individual involved
-- [ ] Bank account: expect the bank to run its own checks on the ownership chain
-- [ ] Work permit for a foreign director of an LLC, unless an exemption applies
-- [ ] Accounting and first reporting deadlines
+- [ ] Ukrainian tax number for each foreign individual involved ([how a foreigner gets one](https://ua4all.org/tax-number-ukraine-foreigner.html))
+- [ ] Bank account: expect the bank to run its own checks on the ownership chain ([bank account for a foreign-owned company](https://ua4all.org/open-bank-account-ukraine-foreign-company.html))
+- [ ] Work permit for a foreign director of an LLC, unless an exemption applies ([work permit for a foreign employee](https://ua4all.org/hire-foreign-employee-ukraine-work-permit.html))
+- [ ] Accounting and first reporting deadlines ([bookkeeping for a foreign-owned company](https://ua4all.org/bookkeeping-accounting-ukraine-foreign-owned-company.html))
 - [ ] If you run an IT company: check whether Diia.City fits ([Law No. 1667-IX](https://zakon.rada.gov.ua/laws/show/1667-20))
 
 ## 4. Primary sources
@@ -50,5 +50,13 @@ Notes:
 ## 5. Plain-English guides
 
 - [Starting and running a company in Ukraine as a foreigner (guide hub)](https://ua4all.org/business/)
+- [Taxes of a foreign-owned company in Ukraine](https://ua4all.org/taxes-foreign-owned-company-ukraine.html)
+- [Money, banking and dividends for foreign owners](https://ua4all.org/money/)
+- [Residence permits for foreigners](https://ua4all.org/residence/) and [working in Ukraine](https://ua4all.org/work/)
+
+The same guides in Ukrainian and Russian, for local partners and accountants:
+
+- Українською: [реєстрація фірми в Україні для нерезидента](https://ua4all.org/ua/register-company-ukraine-non-resident.html), [усі бізнес-гайди](https://ua4all.org/ua/business/)
+- На русском: [регистрация ООО с иностранным учредителем](https://ua4all.org/ru/register-company-ukraine-non-resident.html), [все бизнес-гайды](https://ua4all.org/ru/business/)
 
 This checklist is general information. For a specific case, read the current statute text or ask a Ukrainian lawyer.
